@@ -1,0 +1,454 @@
+---
+title: "Phương pháp thực hiện một tổng quan hệ thống "
+author: "Phạm Nguyễn Thế Nguyên"
+format:
+  revealjs:
+    transition: slide
+    background-transition: fade
+    theme: sky
+    preview-links: auto
+editor: visual
+width: 1500
+height: 800
+---
+
+## Mục tiêu
+
+Định nghĩa tổng quan hệ thống
+
+Phân biệt tổng quan hệ thống và các loại tổng quan thông thường
+
+Nhận biết được các bước chính trong quá trình thực hiện một tổng quan hệ thống
+
+Ứng dụng trong quá trình đọc 1 bài báo tổng quan hệ thống 
+
+Giới thiệu sơ lược cách tìm kiếm trên các cơ sở dữ liệu 
+
+Giới thiệu những tài liệu có thể tham khảo để tiến hành 
+một tổng quan hệ thống
+
+## Tổng quan hệ thống (systematic review) là gì ? 
+
+-   Là một việc tìm kiếm có hệ thống và đánh giá các bằng chứng về một câu hỏi nghiên cứu **cụ thể**.
+
+- " Một tổng quan được chuẩn bị bằng việc tiếp cận một cách hệ thống nhằm giảm thiểu sai lệch và sai số ngẫu nhiên" .
+
+
+## Tổng quan hệ thống (systematic review) là gì ?
+
+- Tổng hợp những nghiên cứu về một câu hỏi lâm sàng **cụ thể** 
+
+- Sử dụng một cách tiếp cận có hệ thống
+
+- Đánh giá một cách kĩ lưỡng các y văn 
+
+- Có thể hoặc không bao gồm phân tích gộp (meta-analysis)
+
+## 
+
+![](image/pyramid.jpg){fig-align="center"}
+
+
+## Tổng quan và tổng quan hệ thống ?
+
+
+| Tổng quan thông thường | Tổng quan hệ thống | 
+|:----------------------|:------------------|
+| Câu hỏi tổng quát      | [Câu hỏi cụ thể]{style="color:blue"}     |  
+| Không có phương pháp cụ thể | [Theo phương pháp]{style="color:blue"}   |   
+| [Thường là không]{style="color:blue"}   | Đánh giá chất lượng và độ tin cậy của bằng chứng|   
+|Không có khả năng lặp lại| [Có khả năng lặp lại được]{style="color:blue"} |
+
+## Tại sao cần làm tổng quan hệ thống?
+
+- Để sàng lọc và tổng hợp một số lượng lớn y văn 
+  
+  - Hơn 2 triệu bài báo y khoa được xuất bản mỗi ngày ở hơn 20.000 tạp chí ^[Mulrow CD. Rationale for systematic reviews. BMJ. 1994 Sep 3;309(6954):597-9. doi: 10.1136/bmj.309.6954.597. PMID: 8086953; PMCID: PMC2541393.]
+  
+- Hỗ trợ trong việc ra quyết định trong nhiều lĩnh vực (kinh tế, lâm sàng, nghiên cứu, hoạch định chính sách)
+
+- Tính chính xác
+
+  - Quy trình thực hiện rõ ràng nhằm giảm thiểu sai lệch
+
+## 
+
+::::{.columns}
+:::{.column width="50%"}
+
+![](image/metaa.png){height = 70%}
+
+:::
+:::{.column width="50%"}
+Nghiên cứu phân tích gộp về tiêm tĩnh mạch streptokinase tiêm tĩnh mạch cho bệnh nhân nhồi máu cơ tim cấp
+:::
+::::
+
+## Các bước tiến hành một tổng quan hệ thống
+
+1. Đặt câu hỏi và xác định tiêu chuẩn nhận và loại
+
+2. Tìm tài liệu
+
+3. Đánh giá chất lượng tài liệu
+
+4. Tổng hợp tài liệu
+
+5. Viết báo cáo
+
+
+## 1. Đặt câu hỏi nghiên cứu (Research question)
+
+Dựa vào tiêu chí PICO
+
+P (Population): Dân số mục tiêu
+
+I (Intervention)/ E (Exposure) : Can thiệp/ phơi nhiễm
+
+C (Comparision): Nhóm chứng
+
+O (Outcome): Kết quả
+
+**Ví dụ**
+
+Chủ đề: người lớn tuổi và vaccine cúm
+
+Câu hỏi: Ở bệnh nhân từ 65 tuổi trở lên, vaccine cúm có làm giảm khả năng bị viêm phổi so với những bệnh nhân không được tiêm vaccine không?
+
+
+## 1. Đặt câu hỏi nghiên cứu (Research question)
+
+Dựa vào tiêu chí PICO
+
+[**P (Population)**]{style="color:blue"}: bệnh nhân từ 65 tuổi trở lên
+
+[**I (Intervention)**]{style="color:green"} : vaccine cúm
+
+[**C (Comparision)**]{style="color:red"}: những bệnh nhân không được tiêm vaccine không
+
+[**O (Outcome)**]{style="color:navy"}: khả năng bị viêm phổi  
+
+**Ví dụ**
+
+Chủ đề: người lớn tuổi và vaccine cúm
+
+Câu hỏi: Ở [bệnh nhân từ 65 tuổi trở lên (Population)]{style="color:blue"}, [vaccine cúm (Intervention)]{style="color:green"} có làm giảm [khả năng bị viêm phổi (Outcome)]{style="color:navy"} so với [những bệnh nhân không được tiêm vaccine không (Comparison)]{style="color:red"}?
+
+## 1. Xác định tiêu chuẩn nhận vào và loại ra
+
+Dựa trên những tiêu chí sau:
+
+- Thời điểm nghiên cứu: thời gian nghiên cứu là bao lâu?
+
+- Thiết kế nghiên cứu: 
+  - Loại thiết kế nghiên cứu nào người tiến hành nghiên cứu đang quan tâm? (RCT, nghiên cứu quan sát)
+  - Cỡ mẫu nghiên cứu là bao nhiêu ? Phương pháp lấy mẫu?
+  
+## 1. Xác định tiêu chuẩn nhận vào và loại ra
+
+Ví dụ: 
+
+Ở bệnh nhân từ 65 tuổi trở lên, vaccine cúm có làm giảm khả năng bị viêm phổi so với những bệnh nhân không được tiêm vaccine không?
+
+**Tiêu chuẩn nhận vào:**
+
+- Các nghiên cứu
+
+  - có dân số nghiên cứu là bệnh nhân 65 tuổi trở lên
+
+  - có báo cáo về khả năng bị viêm phổi ở những người có sử dụng và không sử dụng vaccine cúm
+
+**Tiêu chuẩn loại ra:**
+
+- Những nghiên cứu tổng quan (review), báo cáo một ca (case report), hàng loạt ca (case series), những bài báo hội nghị (conference papers), chương sách
+
+## Viết đề cương
+
+<a href="https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=86803" target="_blank">Predictors of uptake and adherence to seasonal influenza vaccination among 65 years or older adults: a systematic review </a>
+
+![](image/prospero.png){fig-align="center"}
+
+## 2. Tìm tài liệu
+
+Câu hỏi: Ở [bệnh nhân từ 65 tuổi trở lên (Population)]{style="color:blue"}, [vaccine cúm (Intervention)]{style="color:green"} có làm giảm [khả năng bị viêm phổi (Outcome)]{style="color:navy"} so với [những bệnh nhân không được tiêm vaccine không (Comparison)]{style="color:red"}?
+
+Xây dựng một thuật ngữ tìm kiếm (search term)
+
+| PICO | Nội dung | Từ khóa | 
+|:------------------:|:------------------:|:------------------:|
+|P|Patients 65 years and older|Elderly|
+|I|Influenza vaccine|"influenza vaccine"|
+|O|Risk of pneumonia|pneumonia|
+
+
+## 2. Tìm tài liệu 
+
+-   Phát triển thêm thuật ngữ tìm kiếm (search term) bằng những từ đồng nghĩa:
+
+    -   Tìm kiếm từ đồng nghĩa trên <a href="https://www.thesaurus.com/" target="_blank">thesaurus </a>
+    
+##
+
+-   Tham những bài báo liên quan.
+
+![](image/search.png)
+
+## 
+
+![](image/screen2.png)
+
+## Thuật ngữ tìm kiếm (search term)
+
+| PICO | Nội dung | Từ khóa |
+|:----:|:----------:|:------------------:|
+|P|Patients 65 years and older|elderly, elder, aged, seniors, "senior citizen", "senior citizens"|
+|I|Influenza vaccine|"influenza vaccine", "influenza vaccines", "influenza vaccinations", "influenza-virus vaccines", "flu vaccines" |
+|O|Risk of pneumonia|pneumonia, pneumonia, "pulmonary inflammation"|
+
+## Kết hợp bằng những từ nối
+
+| PICO | Tìm kiếm | Từ khóa |  
+|:-:|:-:|:------------------:|
+|P|1|[(]{style="color:blue"}elderly [OR]{style="color:blue"} elder [OR]{style="color:blue"} aged [OR]{style="color:blue"} seniors [OR]{style="color:blue"} "senior citizen" [OR]{style="color:blue"} "senior citizens" [)]{style="color:blue"}|
+|I|2|[(]{style="color:blue"}"influenza vaccine" [OR]{style="color:blue"} "influenza vaccines" [OR]{style="color:blue"} "influenza vaccinations" [OR]{style="color:blue"} "influenza-virus vaccines"[OR]{style="color:blue"} "flu vaccines" [)]{style="color:blue"}|
+|O|3|[(]{style="color:blue"}pneumonia [OR]{style="color:blue"} pneumonia [OR]{style="color:blue"} "pulmonary inflammation"[)]{style="color:blue"}|
+|P&I&O|4|(#1) [AND]{style="color:red"} (#2) [AND]{style="color:red"} (#3)  |
+
+
+
+## 2. Tìm kiếm trên các cơ sở dữ liệu (searching databases)
+
+- Tìm kiếm trên 2 cơ sở dữ liệu trở lên làm giảm khả năng bỏ sót những y văn phù hợp với tiêu chí nhận vào ^[Lefebvre C, Glanville J, Briscoe S, Featherstone R, Littlewood A, Metzendorf M-I, Noel-Storr A, Paynter R, Rader T, Thomas J, Wieland LS. Chapter 4: Searching for and selecting studies. In: Higgins JPT, Thomas J, Chandler J, Cumpston M, Li T, Page MJ, Welch VA (editors). Cochrane Handbook for Systematic Reviews of Interventions version 6.4 (updated October 2023). Cochrane, 2023. Available from www.training.cochrane.org/handbook.]
+
+- Đặc biệt khi các chủ đề mang tính chuyên ngành, liên ngành, hoặc liên quan đến các công nghệ mới, có thể cần và tìm kiếm cơ sở dữ liệu bổ sung 
+
+
+## 2. Tìm kiếm trên cơ sở dữ liệu (searching databases){transition="none"}
+
+- PUBMED
+
+- Cochrance library
+
+- clinicaltrials.gov
+
+## 2. Tìm kiếm trên cơ sở dữ liệu (searching databases)
+
+Những hạn chế của Google Scholar^[Haddaway NR, Collins AM, Coughlin D, Kirk S. The Role of Google Scholar in Evidence Reviews and Its Applicability to Grey Literature Searching. PLoS One. 2015 Sep 17;10(9):e0138237. doi: 10.1371/journal.pone.0138237. PMID: 26379270; PMCID: PMC4574933.]:
+
+- Chỉ sử dụng những boolean cơ bản
+
+- Giới hạn bởi 256 kí tự
+
+- Không thể xuất trực tiếp tất cả các kết quả vào phần mềm trích dẫn
+
+- Thay đổi vị trí các từ sẽ số lượng kết quả khác (không thể lặp lại nghiên cứu)
+
+## 2. Tìm kiếm trên cơ sở dữ liệu (searching databases)
+
+![](image/pubmed1.png){fig-align="center"}
+
+## 2. Tìm kiếm trên cơ sở dữ liệu (searching databases)
+
+![](image/pubmed2.png){fig-align="center"}
+
+## 2. Tìm kiếm trên cơ sở dữ liệu (searching databases)
+
+![](image/cochrane2.png){fig-align="center"}
+
+## 2. Tìm kiếm trên cơ sở dữ liệu (searching databases)
+
+![](image/cochrane.png){fig-align="center"}
+
+## 3. Đánh giá chất lượng tài liệu
+
+-   Tải và lọc trùng các kết quả tìm kiếm được bằng các phần mềm quản lý tài liệu (excel)
+
+![](image/dow.png){fig-align="center"}
+
+## 3. Đánh giá chất lượng tài liệu
+
+<a href="https://clinicaltrials.gov/" target="_blank"> clinicaltrials.gov</a>
+
+![](image/cli.png){fig-align="center"}
+
+## 3. Đánh giá chất lượng tài liệu
+
+![](image/cli2.png){fig-align="center"}
+
+## 3. Đánh giá chất lượng tài liệu
+
+![](image/cli3.png){fig-align="center"}
+
+
+
+## 3. Đánh giá chất lượng tài liệu
+
+-   Sau khi lọc trùng sẽ tải lên các phần mềm dùng để thực hiện các bước lọc: excel, <a href="https://www.rayyan.ai/" target="_blank"> rayyan.ai </a>
+
+![](image/rayyan.png){fig-align="center"}
+
+## 3. Đánh giá chất lượng tài liệu
+
+**Lọc tiêu đề và tóm tắt (title/abstract screening)**
+
+-   Cần ít nhất 2 thành viên tham gia vào quá trình tổng quan
+
+-   Mỗi thành viên sẽ dựa trên tiêu chí nhận vào và loại ra, đọc tiêu đề và phần tóm tắt (abstract) của những bài báo và đưa ra 3 quyết định kèm lý do: nhận (include), loại (exclude), có thể (maybe)
+
+-  Nếu có 2 ý kiến khác nhau giữa 2 thành viên, bài báo đó sẽ được đưa vào bước tiếp theo
+
+## 3. Đánh giá chất lượng tài liệu
+
+**Lọc tiêu đề và tóm tắt (title/abstract screening)**
+
+![](image/titlesreen.png){fig-align="center"}
+
+
+## 3. Đánh giá chất lượng tài liệu
+
+**Lọc toàn văn (full-text screening)**
+ 
+-   Đọc toàn văn của những bài báo được nhận ở bước trước, tìm những thông tin trong bài phù hợp với tiêu chí nhận vào và câu hỏi nghiên cứu
+
+-   Ở bước này, người review chỉ có thể đưa ra 2 quyết định: nhận (include), loại (exclude) và nêu lý do loại 
+
+-   Những ý kiến khác nhau giữa 2 thành viên không thể giải quyết bằng thảo luận, thành viên thứ 3 (trưởng nhóm, người có chuyên môn cao hơn) sẽ là người ra quyết định cuối cùng
+
+
+## Tìm kiếm thủ công (Manual search)
+
+- Sau khi có được những bài đạt tiêu chí nhận vào và loại ra, sẽ tìm kiếm thêm:
+
+   - Ở phần tài liệu trích dẫn ở mỗi bài báo
+  
+   - Những tài liệu dùng bài báo làm trích dẫn
+   
+   - Những bài review liên quan
+
+-   Sau đó tiến hành lọc tiêu đề/ tóm tắt và lọc toàn văn
+
+## Tìm kiếm thủ công (Manual search)
+
+Dựa vào danh mục tài liệu tham khảo
+
+![](image/reference.png){fig-align="center"}
+
+
+
+## Tìm kiếm thủ công (Manual search)
+
+Tìm những nghiên cứu sử dụng bài báo để làm trích dẫn 
+
+![](image/citedby.png){fig-align="center"}
+
+## Tìm kiếm thủ công (Manual search)
+
+Tìm những nghiên cứu sử dụng bài báo để làm trích dẫn 
+
+![](image/citedby2.png){fig-align="center"}
+
+## Tìm kiếm thủ công (Manual search)
+
+Dùng những bài review đã được tiến hành có cùng chủ đề nghiên cứu  
+
+![](image/sr.png){fig-align="center"}
+
+
+## 4. Tổng hợp tài liệu
+
+- Đọc toàn văn những bài báo được nhận sau khi lọc tiêu đề và toàn văn
+
+- Tìm những thông tin thỏa tiêu chí nhận vào và mục tiêu nghiên cứu 
+
+**Ví dụ**
+
+Nghiên cứu: Các yếu tố quyết định việc sử dụng vaccine cúm theo mùa ở người cao tuổi ở Hoa Kỳ: Một tổng quan hệ thống và phân tích gộp^[Okoli GN, Abou-Setta AM, Neilson CJ, Chit A, Thommes E, Mahmud SM. Determinants of Seasonal Influenza Vaccine Uptake Among the Elderly in the United States: A Systematic Review and Meta-Analysis. Gerontol Geriatr Med. 2019 Aug 17;5:2333721419870345. doi: 10.1177/2333721419870345. PMID: 31453267; PMCID: PMC6698992.]
+
+## 4. Tổng hợp tài liệu
+
+Tiêu chí nhận vào: 
+
+- Các nghiên cứu thử nghiệm lâm sàng hoặc nghiên cứu quan sát được thực hiện trong khoảng thời gian 2000 - 2017 tại Hoa Kỳ hoặc Canada trên người cao tuổi 
+
+- Nghiên cứu được công bố bằng Tiếng Anh
+
+Tiêu chí loại ra:
+
+- Các nghiên cứu về yếu tố quyết định chấp nhận và tuân thủ vaccine cúm mùa vào thời điểm đại dịch năm 2009
+
+- Các nghiên cứu phân tích dựa trên những bản tự báo cáo (self-report) 
+
+- Các nghiên cứu không có toàn văn
+
+## 4. Tổng hợp tài liệu
+
+![](image/extract.png){fig-align="center"}
+
+## 4. Tổng hợp tài liệu
+
+![](image/ma.png){fig-align="center"}
+
+## 
+
+![Forest plot of the association between ethnicity (ethnic minorities compared with Whites) and seasonal influenza vaccine uptake.](image/ma2.png){fig-align="center"}
+
+
+
+## Đánh giá nguy cơ sai lệch (risk of bias)
+
+<a href="https://methods.cochrane.org/bias/risk-bias-non-randomized-studies-interventions" target="_blank">Sử dụng các công cụ đánh giá nguy cơ sai lệch của cochrane </a>
+
+![](image/rob.png){fig-align="center"}
+
+
+
+
+## 5. Viết và nộp báo cáo
+
+Dựa theo <a href="http://www.prisma-statement.org/documents/PRISMA_2020_checklist.pdf" target="_blank"> PRISMA checklist </a> , tác giả sẽ phải trả lời được các câu hỏi và điền số trang vào để nộp cho nhà xuất bản
+
+<a href="https://www.bmj.com/content/372/bmj.n160" target="_blank"> Bài báo giải thích chi tiết các mục của PRISMA 2020 Checklist </a>
+
+## 5. Viết và nộp báo cáo 
+
+![](image/PRISMA.png){fig-align="center"}
+
+## Các tài liệu về phương pháp tổng quan hệ thống
+
+::::{.columns}
+:::{.column width="50%"}
+
+- Các hướng dẫn về các bước tiến hành tổng quan hệ thống 
+
+<a href="https://training.cochrane.org/handbook/current?fbclid=IwAR31OExdXfW1x-7lcZeMzfs2SHFcds5eV148pB2-TsDsgSGzr7BbIffQyPE" target="_blank"> Cochrane handbook </a>
+
+<a href="https://guides.lib.unc.edu/systematic-reviews/overview" target="_blank"> UNC library </a>
+
+- Công cụ hỗ trợ lọc tiêu đề và toàn văn
+
+<a href="https://www.rayyan.ai/" target="_blank"> rayyan.ai </a>
+:::
+:::{.column width="50%"}
+- Đánh giá nguy cơ sai lệch
+
+<a href="https://sites.google.com/site/riskofbiastool/welcome" target="_blank"> Cochrane risk of bias tools </a>
+
+- Checklist PRISMA khi viết bài báo
+
+<a href="http://www.prisma-statement.org/PRISMAStatement/" target="_blank"> PRISMA 2020 </a>
+
+<a href="https://www.bmj.com/content/372/bmj.n160" target="_blank"> Bài báo giải thích chi tiết các mục của PRISMA 2020 Checklist </a>
+:::
+::::
+## TÓM TẮT
+
+|       | Tổng quan thông thường | Tổng quan hệ thống | 
+|:--------------|:-----|:-----|
+|Câu hỏi nghiên cứu| Câu hỏi tổng quát| Câu hỏi cụ thể|
+|Nộp đề cương nghiên cứu thông qua PROSPERO | Không |Có|
+|Rõ ràng, minh bạch, chiến lược tìm kiếm được bình duyệt| Không   | Có|   
+|Trích dẫn dữ liệu theo phương pháp|Không| Có  |
+|Đánh giá nguy cơ sai lệch|Không|Có|
+|Có khả năng lặp lại nghiên cứu|Không|Có|
+
+# Xin cảm ơn {style="text-align: center"}
